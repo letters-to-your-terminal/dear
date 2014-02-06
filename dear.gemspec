@@ -6,11 +6,11 @@ require 'dear/version'
 Gem::Specification.new do |spec|
   spec.name          = "dear"
   spec.version       = Dear::VERSION
-  spec.authors       = ["kristenmills"]
+  spec.authors       = ["Kristen Mills"]
   spec.email         = ["kristen@kristen-mills.com"]
   spec.summary       = %q{TODO: Write a short summary. Required.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/letters-to-your-terminal/dear"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
