@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Dear::VERSION
   spec.authors       = ["Kristen Mills"]
   spec.email         = ["kristen@kristen-mills.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = "Because it's nice to write letters"
+  spec.description   = "Because it's nice to write letters"
   spec.homepage      = "https://github.com/letters-to-your-terminal/dear"
   spec.license       = "MIT"
 
