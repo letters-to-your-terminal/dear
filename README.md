@@ -27,3 +27,8 @@ so far.
 
 Hopefully after these three are finished, more will come. You can install each of
 the gems seperately or install this meta gem that depends on all of them.
+
+## Plans for the future 
+
+* dear-bundler
+* dear-gem
